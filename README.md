@@ -15,9 +15,6 @@ Just a college student coding.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RLAlpha49&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RLAlpha49&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=RLAlpha49&icon=2&color=1)](https://visitcount.itsvg.in)
 
