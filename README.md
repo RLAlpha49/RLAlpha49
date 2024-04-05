@@ -7,13 +7,19 @@ Just a college student coding.
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RLAlpha49&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RLAlpha49&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RLAlpha49&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=RLAlpha49&theme=transparent&show_icons=true)<br/>
+![](https://github-readme-stats.vercel.app/api/wakatime?username=RLAlpha49&theme=transparent&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RLAlpha49&layout=compact&theme=transparent)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RLAlpha49&theme=transparent&hide_border=false)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RLAlpha49&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=RLAlpha49&theme=radical&no-bg=true&title=Joined2020,Commits,Experience,Repositories,Stars,PullRequest)
+
+## Best Repositories
+[![Wavy Beats](https://github-readme-stats.vercel.app/api/pin/?username=RLAlpha49&repo=AniCards&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/AniCards)
+[![Alertism](https://github-readme-stats.vercel.app/api/pin/?username=RLAlpha49&repo=Anilist-Manga-Updater&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/Anilist-Manga-Updater)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RLAlpha49&icon=2&color=1)](https://visitcount.itsvg.in)
