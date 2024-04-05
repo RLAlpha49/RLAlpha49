@@ -9,9 +9,9 @@ Just a college student coding.
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RLAlpha49&theme=transparent&show_icons=true)<br/>
+![](https://github-readme-stats-rlalpha49s-projects.vercel.app/api?username=RLAlpha49&theme=transparent&show_icons=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=RLAlpha49&theme=transparent&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RLAlpha49&layout=compact&theme=transparent)<br/>
+![](https://github-readme-stats-rlalpha49s-projects.vercel.app/api/top-langs/?username=RLAlpha49&layout=compact&theme=transparent)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RLAlpha49&theme=transparent&hide_border=false)
 
 ## 🏆 GitHub Trophies
