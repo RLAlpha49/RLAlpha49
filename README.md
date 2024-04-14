@@ -11,15 +11,15 @@ Just a college student coding.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-rlalpha49s-projects.vercel.app/api?username=RLAlpha49&theme=transparent&show_icons=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=RLAlpha49&theme=transparent&layout=compact)<br/>
-![](https://github-readme-stats-rlalpha49s-projects.vercel.app/api/top-langs/?username=RLAlpha49&layout=compact&theme=transparent)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RLAlpha49&layout=compact&theme=transparent)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RLAlpha49&theme=transparent&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RLAlpha49&theme=radical&no-bg=true&title=Joined2020,Commits,Experience,Repositories,Stars,PullRequest)
 
 ## Best Repositories
-[![Wavy Beats](https://github-readme-stats.vercel.app/api/pin/?username=RLAlpha49&repo=AniCards&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/AniCards)
-[![Alertism](https://github-readme-stats.vercel.app/api/pin/?username=RLAlpha49&repo=Anilist-Manga-Updater&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/Anilist-Manga-Updater)
+[![AniCards](https://github-readme-stats.vercel.app/api/pin/?username=RLAlpha49&repo=AniCards&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/AniCards)
+[![Anilist Manga Updater](https://github-readme-stats.vercel.app/api/pin/?username=RLAlpha49&repo=Anilist-Manga-Updater&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/Anilist-Manga-Updater)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RLAlpha49&icon=2&color=1)](https://visitcount.itsvg.in)
