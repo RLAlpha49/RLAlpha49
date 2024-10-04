@@ -31,7 +31,6 @@ Just a college student coding as a hobby.
 ![](https://github-profile-trophy.vercel.app/?username=RLAlpha49&theme=radical&no-bg=true&title=Joined2020,Commits,Experience,Repositories,Stars,PullRequest)
 
 ## Best Repositories
-[![AniLink](https://github-readme-stats.vercel.app/api/pin/?username=RLAlpha49&repo=AniLink&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/AniLink)
 [![AniCards](https://github-readme-stats.vercel.app/api/pin/?username=RLAlpha49&repo=AniCards&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/AniCards)
 [![Anilist Manga Updater](https://github-readme-stats.vercel.app/api/pin/?username=RLAlpha49&repo=Anilist-Manga-Updater&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/Anilist-Manga-Updater)
 
