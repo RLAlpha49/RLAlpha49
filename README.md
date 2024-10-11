@@ -22,7 +22,7 @@ Just a college student coding as a hobby.
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-rlalpha49s-projects.vercel.app/api?username=RLAlpha49&theme=transparent&show_icons=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=RLAlpha49&theme=transparent&show_icons=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=RLAlpha49&theme=transparent&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RLAlpha49&layout=compact&theme=transparent)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RLAlpha49&theme=transparent&hide_border=false)
