@@ -24,7 +24,7 @@ Just a college student coding as a hobby.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RLAlpha49&theme=transparent&show_icons=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=RLAlpha49&theme=transparent&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RLAlpha49&layout=compact&theme=transparent)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RLAlpha49&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact&theme=transparent)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RLAlpha49&theme=transparent&hide_border=false)
 
 ## 🏆 GitHub Trophies
