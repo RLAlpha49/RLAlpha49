@@ -31,8 +31,11 @@ Just a college student coding as a hobby.
 ![](https://github-profile-trophy.vercel.app/?username=RLAlpha49&theme=radical&no-bg=true&title=Joined2020,Commits,Experience,Repositories,Stars,PullRequest)
 
 ## Best Repositories
-[![AniCards](https://github-readme-stats.vercel.app/api/pin/?username=RLAlpha49&repo=AniCards&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/AniCards)
+[![Anilist Custom List Manager](https://github-readme-stats.vercel.app/api/pin/?username=RLAlpha49&repo=Anilist-Custom-List-Manager&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/Anilist-Custom-List-Manager)
+[![AniSearch](https://github-readme-stats.vercel.app/api/pin/?username=RLAlpha49&repo=AniSearch&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/AniSearch)
 [![Anilist Manga Updater](https://github-readme-stats.vercel.app/api/pin/?username=RLAlpha49&repo=Anilist-Manga-Updater&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/Anilist-Manga-Updater)
+[![AniSearch Model](https://github-readme-stats.vercel.app/api/pin/?username=RLAlpha49&repo=AniSearch-Model&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/AniSearch-Model)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RLAlpha49&icon=2&color=1)](https://visitcount.itsvg.in)
