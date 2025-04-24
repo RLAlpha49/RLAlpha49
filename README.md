@@ -33,7 +33,7 @@ Just a college student coding as a hobby.
 ## Best Repositories
 [![AniCards](https://github-readme-stats.vercel.app/api/pin/?username=RLAlpha49&repo=AniCards&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/AniCards)
 [![Anilist Custom List Manager](https://github-readme-stats.vercel.app/api/pin/?username=RLAlpha49&repo=Anilist-Custom-List-Manager&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/Anilist-Custom-List-Manager)
-[![Anilist Manga Updater](https://github-readme-stats.vercel.app/api/pin/?username=RLAlpha49&repo=Anilist-Manga-Updater&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/Anilist-Manga-Updater)
+[![Kenmei To Anilist](https://github-readme-stats.vercel.app/api/pin/?username=RLAlpha49&repo=Anilist-Manga-Updater&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/KenmeiToAnilist)
 [![AniSearch Model](https://github-readme-stats.vercel.app/api/pin/?username=RLAlpha49&repo=AniSearch-Model&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/AniSearch-Model)
 
 
