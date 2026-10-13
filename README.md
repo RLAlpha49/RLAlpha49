@@ -22,18 +22,18 @@ Just a college student coding as a hobby.
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-plum-theta-58.vercel.app/api?username=RLAlpha49&theme=transparent&show_icons=true)<br/>
-![](https://github-readme-stats-plum-theta-58.vercel.app/api/wakatime?username=RLAlpha49&theme=transparent&layout=compact)<br/>
-![](https://github-readme-stats-plum-theta-58.vercel.app/api/top-langs/?username=RLAlpha49&size_weight=0.45&count_weight=0.8&langs_count=6&layout=compact&theme=transparent)<br/>
+![](https://github-stats-extended.vercel.app/api?username=RLAlpha49&theme=transparent&show_icons=true)<br/>
+![](https://github-stats-extended.vercel.app/api/wakatime?username=RLAlpha49&theme=transparent&layout=compact)<br/>
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=RLAlpha49&size_weight=0.45&count_weight=0.8&langs_count=6&layout=compact&theme=transparent)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RLAlpha49&theme=transparent&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://gh-trophy.cdnsoft.net/?username=RLAlpha49&theme=radical&no-bg=true&title=Joined2020,Commits,Experience,Repositories,Stars,PullRequest)
 
 ## Best Repositories
-[![AniCards](https://github-readme-stats-plum-theta-58.vercel.app/api/pin/?username=RLAlpha49&repo=AniCards&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/AniCards)
-[![Anilist Custom List Manager](https://github-readme-stats-plum-theta-58.vercel.app/api/pin/?username=RLAlpha49&repo=Anilist-Custom-List-Manager&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/Anilist-Custom-List-Manager)
-[![Kenmei To Anilist](https://github-readme-stats-plum-theta-58.vercel.app/api/pin/?username=RLAlpha49&repo=Anilist-Manga-Updater&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/KenmeiToAnilist)
+[![AniCards](https://github-stats-extended.vercel.app/api/pin/?username=RLAlpha49&repo=AniCards&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/AniCards)
+[![Anilist Custom List Manager](https://github-stats-extended.vercel.app/api/pin/?username=RLAlpha49&repo=Anilist-Custom-List-Manager&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/Anilist-Custom-List-Manager)
+[![Kenmei To Anilist](https://github-stats-extended.vercel.app/api/pin/?username=RLAlpha49&repo=Anilist-Manga-Updater&show_icons=true&theme=github_dark&icon_color=7c858f&description_lines_count=3)](https://github.com/RLAlpha49/KenmeiToAnilist)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RLAlpha49&icon=2&color=1)](https://visitcount.itsvg.in)
